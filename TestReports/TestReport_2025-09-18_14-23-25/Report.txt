@@ -1,0 +1,99 @@
+Start_Time= 2025-09-18 14:23:04.387775
+OS=
+User=
+autName=https://the-internet.herokuapp.com/
+FailureScreenshot=True
+SuccessScreenshot=True
+AllStepScreenshot=False
+separateFailReport=False
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<given "I have access to application">StepNumber|1|StepNumber
+Message|Successfully navigated to URL: https://the-internet.herokuapp.com/|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I scroll and click Form Auth link in the internet">StepNumber|2|StepNumber
+Message|Scrolled and clicked using JavaScript|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I entered Username_TB in form authentication as 'Username_TB'">StepNumber|3|StepNumber
+screenshot|test001_20250918142316150597.png|screenshot
+Message|Entered Value is : tomsmith|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I clear text Username_TB in form authentication">StepNumber|4|StepNumber
+screenshot|test001_20250918142316589949.png|screenshot
+Message|Selected all text in Username_TB|Message
+Message|Cleared text in Username_TB|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I copied text Login page_TB in form authentication">StepNumber|5|StepNumber
+screenshot|test001_20250918142316872923.png|screenshot
+Message|Copied Text : Login Page|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I enter copied text Username_TB in form authentication">StepNumber|6|StepNumber
+screenshot|test001_20250918142317123124.png|screenshot
+Message|Enter Copied Text :Login Page|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I clear and enter text Username_TB in form authentication as 'Username_TB_1'">StepNumber|7|StepNumber
+screenshot|test001_20250918142318458988.png|screenshot
+Message|Entered Value is : wrong value|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I clear text Username_TB in form authentication">StepNumber|8|StepNumber
+screenshot|test001_20250918142318750049.png|screenshot
+Message|Selected all text in Username_TB|Message
+Message|Cleared text in Username_TB|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I copied text usename head_link in form authentication">StepNumber|9|StepNumber
+screenshot|test001_20250918142318968712.png|screenshot
+Message|Copied Text : Username|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I enter copied text Username_TB in form authentication">StepNumber|10|StepNumber
+screenshot|test001_20250918142319230949.png|screenshot
+Message|Enter Copied Text :Username|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I copied text password head_label in form authentication">StepNumber|11|StepNumber
+screenshot|test001_20250918142319440945.png|screenshot
+Message|Copied Text : Password|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I enter copied text Username_TB in form authentication">StepNumber|12|StepNumber
+screenshot|test001_20250918142319732845.png|screenshot
+Message|Enter Copied Text :Password|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I entered Password_TA in form authentication as 'Password_TA'">StepNumber|13|StepNumber
+screenshot|test001_20250918142320080764.png|screenshot
+Message|Entered Value is : SuperSecretPassword!|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I clear text Password_TA in form authentication">StepNumber|14|StepNumber
+screenshot|test001_20250918142320394956.png|screenshot
+Message|Selected all text in Password_TA|Message
+Message|Cleared text in Password_TA|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I entered Password_TA in form authentication as 'Password_TA_1'">StepNumber|15|StepNumber
+screenshot|test001_20250918142320691099.png|screenshot
+Message|Entered Value is : wrong enter|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I clear and enter text Password_TA in form authentication as 'Password_TA_2'">StepNumber|16|StepNumber
+screenshot|test001_20250918142322023058.png|screenshot
+Message|Entered Value is : correct value|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<when "I selected Login_button in form authentication">StepNumber|17|StepNumber
+screenshot|test001_20250918142322907766.png|screenshot
+Message|Login_button selected successfully|Message
+['The_Internet_1', 'uida1982752441', 'set21', 'test001', 'Form_Authentication']
+Form Authentication -- @1.1 
+<then "'Form Authentication' is displayed with 'NA'">StepNumber|18|StepNumber
+screenshot|test001_20250918142323100589.png|screenshot
+End_Time=2025-09-18 14:23:25.673462

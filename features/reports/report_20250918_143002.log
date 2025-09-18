@@ -1,0 +1,60 @@
+2025-09-18 14:30:02,142 - INFO - ****************************** Starting tests... **********************
+2025-09-18 14:30:04,602 - INFO - ****************************** TAGS: The_Internet_1, uida1982752441, set21, test001, Form_Authentication ******************************
+2025-09-18 14:30:04,602 - INFO - ****** Scenario started: Form Authentication -- @1.1  ******
+2025-09-18 14:30:04,606 - INFO - ****** Step started:<given "I have access to application">******
+2025-09-18 14:30:09,251 - INFO - Successfully navigated to URL: https://the-internet.herokuapp.com/
+2025-09-18 14:30:09,270 - INFO - ****** Step ended: <given "I have access to application"> | Status:PASSED******
+2025-09-18 14:30:09,271 - INFO - ****** Step started:<when "I scroll and click Form Auth link in the internet">******
+2025-09-18 14:30:10,834 - INFO - Scrolled and clicked using JavaScript
+2025-09-18 14:30:10,854 - INFO - ****** Step ended: <when "I scroll and click Form Auth link in the internet"> | Status:PASSED******
+2025-09-18 14:30:10,855 - INFO - ****** Step started:<when "I entered Username_TB in form authentication as 'Username_TB'">******
+2025-09-18 14:30:11,044 - INFO - Entered Value is : tomsmith
+2025-09-18 14:30:11,250 - INFO - ****** Step ended: <when "I entered Username_TB in form authentication as 'Username_TB'"> | Status:PASSED******
+2025-09-18 14:30:11,250 - INFO - ****** Step started:<when "I clear text Username_TB in form authentication">******
+2025-09-18 14:30:11,351 - INFO - Selected all text in Username_TB
+2025-09-18 14:30:11,385 - INFO - Cleared text in Username_TB
+2025-09-18 14:30:11,590 - INFO - ****** Step ended: <when "I clear text Username_TB in form authentication"> | Status:PASSED******
+2025-09-18 14:30:11,590 - INFO - ****** Step started:<when "I copied text Login page_TB in form authentication">******
+2025-09-18 14:30:11,677 - INFO - Copied Text : Login Page
+2025-09-18 14:30:11,812 - INFO - ****** Step ended: <when "I copied text Login page_TB in form authentication"> | Status:PASSED******
+2025-09-18 14:30:11,813 - INFO - ****** Step started:<when "I enter copied text Username_TB in form authentication">******
+2025-09-18 14:30:12,000 - INFO - Enter Copied Text :Login Page
+2025-09-18 14:30:12,163 - INFO - ****** Step ended: <when "I enter copied text Username_TB in form authentication"> | Status:PASSED******
+2025-09-18 14:30:12,164 - INFO - ****** Step started:<when "I clear and enter text Username_TB in form authentication as 'Username_TB_1'">******
+2025-09-18 14:30:13,405 - INFO - Entered Value is : wrong value
+2025-09-18 14:30:13,545 - INFO - ****** Step ended: <when "I clear and enter text Username_TB in form authentication as 'Username_TB_1'"> | Status:PASSED******
+2025-09-18 14:30:13,545 - INFO - ****** Step started:<when "I clear text Username_TB in form authentication">******
+2025-09-18 14:30:13,624 - INFO - Selected all text in Username_TB
+2025-09-18 14:30:13,661 - INFO - Cleared text in Username_TB
+2025-09-18 14:30:13,801 - INFO - ****** Step ended: <when "I clear text Username_TB in form authentication"> | Status:PASSED******
+2025-09-18 14:30:13,806 - INFO - ****** Step started:<when "I copied text usename head_link in form authentication">******
+2025-09-18 14:30:13,871 - INFO - Copied Text : Username
+2025-09-18 14:30:13,983 - INFO - ****** Step ended: <when "I copied text usename head_link in form authentication"> | Status:PASSED******
+2025-09-18 14:30:13,983 - INFO - ****** Step started:<when "I enter copied text Username_TB in form authentication">******
+2025-09-18 14:30:14,099 - INFO - Enter Copied Text :Username
+2025-09-18 14:30:14,239 - INFO - ****** Step ended: <when "I enter copied text Username_TB in form authentication"> | Status:PASSED******
+2025-09-18 14:30:14,239 - INFO - ****** Step started:<when "I copied text password head_label in form authentication">******
+2025-09-18 14:30:14,300 - INFO - Copied Text : Password
+2025-09-18 14:30:14,461 - INFO - ****** Step ended: <when "I copied text password head_label in form authentication"> | Status:PASSED******
+2025-09-18 14:30:14,461 - INFO - ****** Step started:<when "I enter copied text Username_TB in form authentication">******
+2025-09-18 14:30:14,640 - INFO - Enter Copied Text :Password
+2025-09-18 14:30:14,807 - INFO - ****** Step ended: <when "I enter copied text Username_TB in form authentication"> | Status:PASSED******
+2025-09-18 14:30:14,808 - INFO - ****** Step started:<when "I entered Password_TA in form authentication as 'Password_TA'">******
+2025-09-18 14:30:14,960 - INFO - Entered Value is : SuperSecretPassword!
+2025-09-18 14:30:15,150 - INFO - ****** Step ended: <when "I entered Password_TA in form authentication as 'Password_TA'"> | Status:PASSED******
+2025-09-18 14:30:15,150 - INFO - ****** Step started:<when "I clear text Password_TA in form authentication">******
+2025-09-18 14:30:15,281 - INFO - Selected all text in Password_TA
+2025-09-18 14:30:15,316 - INFO - Cleared text in Password_TA
+2025-09-18 14:30:15,499 - INFO - ****** Step ended: <when "I clear text Password_TA in form authentication"> | Status:PASSED******
+2025-09-18 14:30:15,503 - INFO - ****** Step started:<when "I entered Password_TA in form authentication as 'Password_TA_1'">******
+2025-09-18 14:30:15,668 - INFO - Entered Value is : wrong enter
+2025-09-18 14:30:15,835 - INFO - ****** Step ended: <when "I entered Password_TA in form authentication as 'Password_TA_1'"> | Status:PASSED******
+2025-09-18 14:30:15,837 - INFO - ****** Step started:<when "I clear and enter text Password_TA in form authentication as 'Password_TA_2'">******
+2025-09-18 14:30:17,033 - INFO - Entered Value is : correct value
+2025-09-18 14:30:17,219 - INFO - ****** Step ended: <when "I clear and enter text Password_TA in form authentication as 'Password_TA_2'"> | Status:PASSED******
+2025-09-18 14:30:17,219 - INFO - ****** Step started:<when "I selected Login_button in form authentication">******
+2025-09-18 14:30:18,098 - INFO - Login_button selected successfully
+2025-09-18 14:30:18,278 - INFO - ****** Step ended: <when "I selected Login_button in form authentication"> | Status:PASSED******
+2025-09-18 14:30:18,280 - INFO - ****** Step started:<then "'Form Authentication' is displayed with 'NA'">******
+2025-09-18 14:30:18,449 - INFO - ****** Step ended: <then "'Form Authentication' is displayed with 'NA'"> | Status:PASSED******
+2025-09-18 14:30:21,028 - INFO - ******Scenario ended:Form Authentication -- @1.1 PASSED ******

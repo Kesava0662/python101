@@ -1,0 +1,30 @@
+[
+    {
+        "locator": "//a[contains(.,'Form Authentication')]",
+        "target": "<a href='/login'>Form Authentication</a>"
+    },
+    {
+        "locator": "//input[@id='username']",
+        "target": "<input type='text' name='username' id='username'>"
+    },
+    {
+        "locator": "//h2[contains(.,'Login Page')]",
+        "target": "<h2>Login Page</h2>"
+    },
+    {
+        "locator": "//label[contains(.,'Username')]",
+        "target": "<label for='username'>Username</label>"
+    },
+    {
+        "locator": "//label[contains(.,'Password')]",
+        "target": "<label for='password'>Password</label>"
+    },
+    {
+        "locator": "//input[@id='password']",
+        "target": "<input type='password' name='password' id='password'>"
+    },
+    {
+        "locator": "//i[contains(.,'Login')]",
+        "target": "<i class='fa fa-2x fa-sign-in'> Login</i>"
+    }
+]

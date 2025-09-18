@@ -1,0 +1,7 @@
+#Test1 test data
+Username_TB: "tomsmith"
+Username_TB_1: "wrong value"
+Password_TA: "SuperSecretPassword!"
+Password_TA_1: "wrong enter"
+Password_TA_2: "correct value"
+
